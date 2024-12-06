@@ -1,5 +1,5 @@
 
-# Date:28/112024
+# Date:28/11/2024
 # AIM
 To write a html webpage page to display your slot timetable.
 
